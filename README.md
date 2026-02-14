@@ -1,11 +1,11 @@
 <h1 align="center"><a href=" https://github.com/Kosmonavt888/Alivio" target="_blank">Alivio</a></h1>
 <p>Website layout based on a Figma desing project</p>
-<img src="img/IMG_5830.gif"/>
+<img src="img/IMG_5893.png"/>
 <h2>Features</h2>
 <ul>
     <li>The website is designed using PerfectPixel technology and fully conforms to the layout.</li>
     <li>The adaptive version for devices of different sizes is made according to its own design.
-        <img src="img/IMG_5856.gif"/>
+        <img src="img/IMG_5894.gif"/>
     </li>
     
     <li>The adaptive version for devices of different sizes is made according to its own design.<img src="img/IMG_5856.gif"/></li>
